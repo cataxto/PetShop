@@ -1,0 +1,343 @@
+
+
+.div1 {
+    background-color: black;
+    color: white;
+    height: 35px;
+    display: flex;
+}
+
+.div1 #frase1{
+    width: 50%;
+    margin-left: 10%;
+    margin-top: 8px;
+}
+
+.div1 #idiom1{
+    margin-left: 50%;
+    margin-top: 8px;
+}
+
+.div1 #idiom2{
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 8px;
+}
+
+.div2{
+    background-color: #F0A83E;
+    height: 120px;
+    display: flex;
+}
+
+.div2 #img1{
+    margin-left: 7%;
+    margin-top: 2%;
+    height: 50px;
+}
+.div2 #tit1{
+    color: #3C2313;
+    margin-top: 1.5%;
+    font-size: 50px;  
+    font-family:Roboto;
+}
+.div2 #tit2{
+    color: white;
+    margin-top: 1.5%;
+    font-size: 50px;
+    font-family:Roboto;    
+}
+
+.div2 #img2{
+    margin-left: 0%;
+    margin-top: 2%;
+    height: 50px;
+}
+
+.div2 ul {
+    /* margin-left: 15%; */
+    margin-top: 3%;
+    display: flex;
+}
+
+.div2 ul li{
+    display: inline;
+    display: flex;
+}
+
+.div2 ul li span{
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+    margin-top: 5%;
+    font-size: 20px;
+}
+
+.div2 ul li img{
+    height: 40px;
+}
+
+.div3 img{
+    height:1px;
+}
+
+.div3 {
+    background-image: url("../img/fondo1.png");
+    /* background-color: coral; */
+    background-size: contain; 
+    height: 400px;
+    display: flex;
+}
+
+#elem1{
+    background-color: white;
+    height: 50px;
+    width: 100000px;
+    text-align: center;
+    color: #3C2313;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left:750px;
+    margin-top: 150px;
+}
+
+#elem2{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 0px;
+    text-align: center;
+    width: 100%;
+    margin-left: -350px;
+    margin-top: 200px;
+} 
+
+#elem3{
+    height: 50px;
+    width: 500px;
+    background-color:#F0A83E;
+    outline: 0;
+    font-family: Roboto;
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    border-radius:10px;
+    border: none;
+    margin-top: 250px;
+    margin-right: 350px;
+}
+
+.div4 {
+    height: 240px;
+}
+
+.div4 .img1{
+    color: #F0A83E;
+    margin-top: 2%;
+    margin-left: 50%;
+
+}
+
+.div4 h2{
+    margin-left: 43%;   
+    font-family: Roboto;
+    font-weight: bolder;
+    color: #3C2313;
+    font-size: 30px;
+    line-height: 10px;
+}
+
+.div4 ul li{
+    display: inline;
+    font-family: Roboto;
+    font-size: 20px;
+    color: #3C2313;
+    margin-left: 4%;
+}
+
+.div4 ul {
+    margin-left: 36%;
+}
+
+.div5{
+    height: 420px;
+}
+
+.div5 ul li img{
+    height: 400px;
+}
+
+#list1,#list2,#list3{
+    text-align: center;
+}
+
+.Prod{
+
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: -90px;
+    color: #3C2313;
+    line-height: 35px;
+
+}
+
+.Precio{
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 15px;
+    color: #F0A83E;
+}
+
+#list1{
+    margin-left: -900px;
+}
+
+#list2{
+    margin-top: -383px;
+}
+
+#list3{
+    margin-left: 900px;
+    margin-top: -383px;
+}
+
+.div6 h3{
+    margin-left: 48%;
+    color:#3C2313;
+    font-weight: 700;
+    font-family: Remoto;
+    font-size: 25px;
+
+}
+
+.div6 input{
+    display:block;
+    text-align: left;
+    width: 400px;
+    height: 35px;
+    margin-top: 10px;
+    border-radius:10px;
+    background-color: #3C2313;
+    color: white;
+    font-family: Roboto;
+    font-weight: bolder;
+    margin-left: 38%;
+}
+
+.div6 button{
+    border-radius:10px;
+    height: 30px;
+    width: 150px;
+    border: none;
+    font-family: Roboto;
+    font-weight: bolder;
+    font-size: 15px;
+}
+
+
+.div6 #but1 {
+    background-color: #8A8787;
+    color: white;
+    margin-left: 42%;
+    margin-top: 15px;
+}
+
+.div6 #but2 {
+    background-color: #F0A83E;
+    color: white;
+}
+
+.div7 {
+    height: 70px;
+    margin-top: 20px;
+    background-color: #F0A83E;
+    font-family: Roboto;
+    color: white;
+    font-weight: bolder;
+    display: flex;
+}
+
+.div7 .imgm{
+    margin-top: 11px;
+    margin-left: 30px;
+}
+
+.div7 span{
+    margin-top: 22px;
+    margin-left: 5px;
+    font-size: 20px;
+}
+
+.div7 input{
+    margin-left: 47%;
+    margin-top: 22px;
+    border-radius:10px;
+    height: 20px;
+    width: 200px;
+    border: none;
+}
+
+.div7 button{
+    border-radius: 10px;
+    background-color: #3C2313;
+    color: white;
+    font-weight: bolder;
+    border: none;
+    height: 20px;
+    margin-top: 22px;
+    margin-left: 1%;
+
+}
+
+.div8{
+    background-color: #3C2313;
+    height: 350px ;
+    margin-top: -16px;
+}
+
+.div8 ul li .imgff{
+    margin-top: 40px;
+    opacity: 0.5;
+    color: gray;
+}
+
+.div8 ul li .titff{
+    color: white;
+    font-family: Roboto;
+    font-weight: bolder;
+    font-size: 15px;
+    margin-left: 8%;
+    margin-top: -4%;
+}
+
+.div8 ul li .subtitff{
+    color: white;
+    font-family: Roboto;
+    font-size: 10px;
+    margin-left: 8%;
+}
+
+.div8 #titfoot{
+    margin-left: 70%;
+    margin-top: -90%;
+}
+
+.div9{
+    background-color: black;
+    height: 30px;
+    
+    color: white;
+    display: flex;
+
+}
+
+.div9 span{
+
+    margin-top: 5px;
+    margin-left: 45%;
+    
+}
+
+
